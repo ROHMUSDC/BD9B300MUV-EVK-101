@@ -1,0 +1,300 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Jul-08-2014 at 10:11:02 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08';
+ POST_TIME='Mar 26 2012 19:10:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_VER_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS10126@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins10126@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins10126@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_VER_C0603_180PF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS18057@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins18057@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins18057@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_VER_C0603_TBD':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS17355@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins17355@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins17355@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_VER_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS28195@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins28195@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins28195@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_VER_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS16294@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins16294@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins16294@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_VER_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS17727@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins17727@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins17727@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_VER_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS20103@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins20103@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins20103@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_VER_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS12263@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins12263@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins12263@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_VER_C0603_TBD':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS27036@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins27036@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins27036@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_VER_C0805_TBD':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS27169@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins27169@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins27169@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_VER_C1206_TBD':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS26802@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins26802@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins26802@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR1 'TBD':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS18760@MYLIBRARY_22AUG13.LED_0603_GREEN.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins18760@mylibrary_22aug13.\led_0603_green.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins18760@mylibrary_22aug13.\led_0603_green.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_ZENER_VER_0_DO-214AC_P4SM':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS10311@BD9B300MUV-E2EVK-101_SCH_REV00_2014-06-20.DIODE_ZENER_VER_0.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins10311@\bd9b300muv-e2evk-101_sch_rev00_2014-06-20\.\diode_zener_ver_0.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins10311@\bd9b300muv-e2evk-101_sch_rev00_2014-06-20\.\diode_zener_ver_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN PCB 3X1_2.100"_HDR_THVT_1X':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS16703@ROHM__BU90002GWZ_EVAL_REV01_28AUG13_1200.CONN PCB 3X1_2.100".NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins16703@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins16703@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN PCB 3X1_2.100"_HDR_THVT_1X':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS16733@ROHM__BU90002GWZ_EVAL_REV01_28AUG13_1200.CONN PCB 3X1_2.100".NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins16733@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins16733@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN PCB 3X1_2.100"_HDR_THVT_1X':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS16763@ROHM__BU90002GWZ_EVAL_REV01_28AUG13_1200.CONN PCB 3X1_2.100".NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins16763@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins16763@\rohm__bu90002gwz_eval_rev01_28aug13_1200\.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SMT_6P6X6P6_1.5UH':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS36678@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins36678@discrete.\inductor.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins36678@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_0_SOT23_BEC_IC_SST2222AT116':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS18698@BD9B300MUV-E2EVK-101_SCH_REV00_2014-06-20.NPN_0.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins18698@\bd9b300muv-e2evk-101_sch_rev00_2014-06-20\.\npn_0.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins18698@\bd9b300muv-e2evk-101_sch_rev00_2014-06-20\.\npn_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_140':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS33679@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins33679@discrete.\r.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins33679@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS32720@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins32720@discrete.\r.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins32720@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS34112@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins34112@discrete.\r.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins34112@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_160K':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS17981@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins17981@discrete.\r.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins17981@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_51K':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS17997@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins17997@discrete.\r.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins17997@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS19957@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins19957@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins19957@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS11105@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins11105@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins11105@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_TH_63MIL_BLK_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS11165@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_BLK.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins11165@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins11165@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS11138@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins11138@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins11138@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TP_TH_63MIL_BLK_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS11189@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_BLK.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins11189@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins11189@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_BD9B300MUV_VQFN016V3030_BD9B':;
+
+SECTION_NUMBER 1
+ '@BD9B300MUV-E2EVK-101_SCH_REV00_2014-07-08.SCHEMATIC1(SCH_1):INS15527@ORCAD_CAPTURE_CIS_LIB_VPHAN.IC_BD9B300MUV.NORMAL(CHIPS)':
+ C_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):ins15527@orcad_capture_cis_lib_vphan.\ic_bd9b300muv.normal\(chips)',
+ P_PATH='@\bd9b300muv-e2evk-101_sch_rev00_2014-07-08\.schematic1(sch_1):page3_ins15527@orcad_capture_cis_lib_vphan.\ic_bd9b300muv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
